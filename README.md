@@ -1,5 +1,8 @@
 # React Chess Game ♟️
 
+![React](https://img.shields.io/badge/React-17.0.2-blue?logo=react)
+![NPM](https://img.shields.io/badge/npm-9.8.0-red?logo=npm)
+
 A fully playable **2-player local chess game** built with **React**.  
 Supports all basic chess rules including valid moves, pawn promotion, check & checkmate detection.
 
@@ -26,7 +29,7 @@ Supports all basic chess rules including valid moves, pawn promotion, check & ch
 ![Pawn Promotion](./screenshots/promotion.png)
 
 ### Check / Checkmate
-![Checkmate](./screenshots/checkmate.png)
+![Checkmate](./screenshots/Checkmate.png)
 
 > You can replace these images with actual screenshots from your game.
 
