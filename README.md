@@ -38,46 +38,7 @@ Supports all basic chess rules including valid moves, pawn promotion, check & ch
 ## 🛠 Tech Stack
 
 - **Frontend:** React, JavaScript, CSS  
-- **No backend** (all logic handled on frontend)  
 
----
-
-## 📂 File Structure
-- **No backend** (all logic handled on frontend)  
-
----
-
-## 📂 File Structure
-- **No backend** (all logic handled on frontend)  
-
----
-
-## 📂 File Structure
-- **No backend** (all logic handled on frontend)  
-
----
-
-## 📂 File Structure
-- **No backend** (all logic handled on frontend)  
-
----
-
-## 📂 File Structure
-- **No backend** (all logic handled on frontend)  
-
----
-
-## 📂 File Structure
-- **No backend** (all logic handled on frontend)  
-
----
-
-## 📂 File Structure
-- **No backend** (all logic handled on frontend)  
-
----
-
-## 📂 File Structure
 - **No backend** (all logic handled on frontend)  
 
 ---
