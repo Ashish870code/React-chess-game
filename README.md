@@ -55,7 +55,7 @@ src/ ├── components/ │   └── ChessBoard.jsx ├── utils/ │  
 
 1. Clone the repository:
 
-```bash
+```bash`
 git clone <your-repo-url>
 cd <repo-folder>
 
@@ -69,4 +69,4 @@ npm run dev
 
 # Live
 
-link:- https://lets-playchess.netlify.app
+link:- [https://lets-playchess.netlify.app]
