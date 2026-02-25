@@ -1,5 +1,7 @@
 # React Chess Game ♟️
 
+Live link:- https://lets-playchess.netlify.app
+
 ![React](https://img.shields.io/badge/React-17.0.2-blue?logo=react)
 ![NPM](https://img.shields.io/badge/npm-9.8.0-red?logo=npm)
 
@@ -63,3 +65,8 @@ npm install
 npm run dev
 
 3. Open Your Browser
+
+
+# Live
+
+link:- https://lets-playchess.netlify.app
